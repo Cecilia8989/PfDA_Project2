@@ -63,9 +63,9 @@ archived air samples from Cape Grim, Tasmania, to calculate global annual
 mean methane concentrations from 1010 AD to 1992 AD, also listed.
 
 
-Law Dome, Antarctica 66�44'S, 112�50'E, 1390 m.
-Greenland Summit, 72�34'N, 37�37'E, 3200 m. 
-Archived air samples from Cape Grim, Tasmania, Australia, 40�41'S, 144�41'E, 94 m.
+Law Dome, Antarctica 66 44'S, 112 50'E, 1390 m.
+Greenland Summit, 72 34'N, 37 37'E, 3200 m. 
+Archived air samples from Cape Grim, Tasmania, Australia, 40 41'S, 144 41'E, 94 m.
 
 
 The methane ice core records presented here are derived from three cores
@@ -625,8 +625,7 @@ air age	CH4 (ppb)
 1860	805.6				140
 1870	821.0				130
 1880	837.1				120
-1890	856.6				110
-Smoothing from here down has 12.5 year cut-off (Table 2 part 2 Etheridge et al., 1998)					
+1890	856.6				110				
 1900	879.4				100
 1902	887.9				98
 1904	896.5				96
